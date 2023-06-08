@@ -1,7 +1,7 @@
-## Try it
+## TRY IT
 
 [https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
 
-## Use your own data
+## USE YOUR OWN DATA
 
 Fork it and change `db.json` values or create a repo with a `db.json` file.
